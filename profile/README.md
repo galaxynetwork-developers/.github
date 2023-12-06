@@ -1,6 +1,5 @@
-# GalaxyBot
-GalaxyBotの開発org  
-
+# GalaxyNetwork
+GalaxyNetworkのorg
 サポートサーバーはこちら  
 https://discord.gg/zHkj8NaS27
 
